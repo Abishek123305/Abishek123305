@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Abishek123305/Abishek123305/blob/main/banner.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
 
