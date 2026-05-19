@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
 
@@ -18,11 +19,12 @@
 
 ---
 
-
+## 📌 Projects
 
 ### ❤️ Arrhythmia Detection System
 - CNN-based ECG classification
 - Deep Learning project
+
 ### 🍲 Recipe Finder Website
 - Search and explore recipes
 - User-friendly frontend design
@@ -37,7 +39,6 @@
 - Automated response chatbot
 - Python-based bot integration
 - Real-time messaging support
-
 
 ---
 
@@ -64,8 +65,8 @@
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
-⭐ From Abishek
 
 ---
 
-⭐ From Naveen⭐ From Abishek
+⭐ From Abishek
+```
