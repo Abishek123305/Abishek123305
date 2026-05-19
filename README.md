@@ -1,8 +1,7 @@
-```md
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 - 🎓 B.Tech Final Year Student
 - 💻 Interested in Full Stack Development & AI/ML
@@ -14,7 +13,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,mysql,opencv,tensorflow,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,mysql,opencv,tensorflow,git,github" />
 </p>
 
 ---
@@ -45,15 +44,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abishek123305&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abishek123305&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek123305&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek123305&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek123305&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek123305&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -61,12 +60,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Abishek123305" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+  <a href="https://github.com/Abishek123305" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
 </p>
 
 ---
 
 ⭐ From Abishek
-```
